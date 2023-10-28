@@ -22,9 +22,10 @@ function Navbar() {
                 <ul id="productsnav">
                     <li id="liproduct">
                         <a href="#">
-                            <figure><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" id="airpods"><g><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M5 .5C3.138.5 1.495 1.343.5 2.631V8.37C1.495 9.657 3.138 10.5 5 10.5c.901 0 1.749-.201 2.5-.55V21.5h3v-16c0-2.761-2.462-5-5.5-5zM6 8.5A1.5 1.5 0 017.5 10M9.5 23.5h-1a1 1 0 01-1-1v-1h3v1a1 1 0 01-1 1z"></path><path d="M3.25 4.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5z"></path><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M6.498 2.812c.779.343 1.4.945 1.733 1.687M19 .5c1.862 0 3.505.843 4.5 2.131V8.37c-.995 1.287-2.638 2.13-4.5 2.13a5.922 5.922 0 01-2.5-.55V21.5h-3v-16c0-2.761 2.462-5 5.5-5zM18 8.5a1.5 1.5 0 00-1.5 1.5M14.5 23.5h1a1 1 0 001-1v-1h-3v1a1 1 0 001 1zM17.502 2.812c-.779.343-1.4.945-1.733 1.687"></path><path d="M20.75 4.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5z"></path></g><path fill="none" d="M0 0h24v24H0z"></path></svg></figure>
-                            <span >AirPods <br></br> 1nd Generation</span>
+                        <figure><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" id="airpods"><g><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M5 .5C3.138.5 1.495 1.343.5 2.631V8.37C1.495 9.657 3.138 10.5 5 10.5c.901 0 1.749-.201 2.5-.55V21.5h3v-16c0-2.761-2.462-5-5.5-5zM6 8.5A1.5 1.5 0 017.5 10M9.5 23.5h-1a1 1 0 01-1-1v-1h3v1a1 1 0 01-1 1z"></path><path d="M3.25 4.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5z"></path><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M6.498 2.812c.779.343 1.4.945 1.733 1.687M19 .5c1.862 0 3.505.843 4.5 2.131V8.37c-.995 1.287-2.638 2.13-4.5 2.13a5.922 5.922 0 01-2.5-.55V21.5h-3v-16c0-2.761 2.462-5 5.5-5zM18 8.5a1.5 1.5 0 00-1.5 1.5M14.5 23.5h1a1 1 0 001-1v-1h-3v1a1 1 0 001 1zM17.502 2.812c-.779.343-1.4.945-1.733 1.687"></path><path d="M20.75 4.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5z"></path></g><path fill="none" d="M0 0h24v24H0z"></path></svg></figure>
+                        <span >AirPods <br></br> 1nd Generation</span>
                         </a>
+                        
                     </li>
 
                     <li id="liproduct">
