@@ -1,0 +1,193 @@
+body {
+    font-family: 'San Francisco', Helvetica, Arial, san-serif;
+    background-color: #f7f6f6;
+}
+
+
+#card1 {
+    text-align: center;
+    padding: 300px;
+    margin: 40px;
+    background-image: url(airpods-pro-2-vs-airpods-pro-airpods-3-wrap-up.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 50px;
+}
+
+#airtitle {
+    font-size: 120px;
+    font-weight: 700;
+    line-height: 1;
+    color: white;
+    font-family: 'San Francisco', Helvetica, Arial, san-serif;
+    margin-bottom: -15px;
+}
+
+#airgen {
+    font-size: 30px;
+    color: white;
+}
+
+#airprice {
+    font-size: 30px;
+    color: white;
+    
+}
+
+
+#buy {
+    padding: 15px 25px 15px 25px;
+    border-radius: 25px;
+    font-size: 20px;
+    background-color: white;
+}
+
+#buy:hover {
+    background-color: #eeeeee;
+}
+
+#learnmore {
+    padding: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+#learnmore:hover {
+    text-decoration: underline 2px;
+}
+
+
+
+
+
+
+
+
+
+
+#card2 {
+    text-align: center;
+    padding: 300px;
+    margin: 50px;
+    background-image: url(airpods-3rd-generation.png);
+    background-position: center;
+    background-size: cover;
+    border-radius: 50px;
+}
+
+#airtitle2 {
+    font-size: 120px;
+    font-weight: 700;
+    line-height: 1;
+    color: black;
+    font-family: 'San Francisco', Helvetica, Arial, san-serif;
+    margin-bottom: -15px;
+}
+
+#airgen2 {
+    font-size: 30px;
+    color: black;
+}
+
+#airprice2 {
+    font-size: 30px;
+    color: black;
+    
+}
+
+
+#buy2 {
+    padding: 15px 25px 15px 25px;
+    border-radius: 25px;
+    font-size: 20px;
+    background-color: #0071e3;
+    color: white;
+    border: none;
+}
+
+#buy2:hover {
+    background-color: #399bfd;
+}
+
+#learnmore2 {
+    padding: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+#learnmore2:hover {
+    text-decoration: underline 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#card3 {
+    text-align: center;
+    padding: 200px;
+    margin: 50px;
+    background-color: white;
+    background-position: center;
+    border-radius: 50px;
+}
+
+
+#maxtext {
+    display: flex;
+    margin-left: -80px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+#maximg {
+    margin-top: -400px;
+}
+
+
+#airgen3 {
+    font-size: 30px;
+    color: black;
+}
+
+#airprice3 {
+    font-size: 30px;
+    color: black;
+}
+
+
+#buy3 {
+    padding: 15px 25px 15px 25px;
+    border-radius: 25px;
+    font-size: 20px;
+    background-color: #0071e3;
+    color: white;
+    border: none;
+}
+
+#buy3:hover {
+    background-color: #399bfd;
+}
+
+#learnmore3 {
+    padding: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+#learnmore3:hover {
+    text-decoration: underline 2px;
+}
+

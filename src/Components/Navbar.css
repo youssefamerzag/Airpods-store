@@ -1,0 +1,88 @@
+body {
+    font-family: 'San Francisco', Helvetica, Arial, san-serif;
+    margin: 0;
+}
+
+
+#topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 8px;
+    text-align: center;
+    background-color: #eeeeee;
+    font-size: small;
+    font-weight: 500;
+}
+
+#navlink {
+    display: inline;
+    padding: 15px;
+    margin: 10px 10px 10px 10px;
+}
+
+#navlink svg {
+    display: inline;
+    width: 20px;
+    margin: -3px;
+}
+
+
+#navlink a{
+    text-decoration: none;
+    color: black;
+}
+
+#navlink a:hover {
+    color: rgb(115, 115, 255);
+}
+
+
+
+#music {
+    margin: 1px;
+    padding: 1px;
+    text-align: center;
+    background-color: #eeeeee;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+#navlogo {
+    width: 30px;
+}
+
+#learn {
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 400;
+    color: rgb(115, 115, 255);
+}
+
+
+
+#productsnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 8px;
+    text-align: center;
+    background-color: #fdfdfd;
+}
+
+#liproduct {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 -0.1176470588em;
+    padding: 0 20px;
+}
+
+
+
+#liproduct a{
+    text-decoration: none;
+    color: black;
+}
+
+
+#liproduct a:hover{
+    color: rgb(115, 115, 255);
+}
