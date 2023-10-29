@@ -59,6 +59,9 @@ function Footer() {
                     </ul>
                 </div>
             </div>
+            <div id="copyright_section">
+                <p id="copyright">Copyright © 2023 Youssef Amerzag. All rights reserved.</p>
+            </div>
         </div>
     )
 }export default Footer;
