@@ -1,0 +1,35 @@
+
+#lishop {
+    list-style-type: none;
+    padding: 10px;
+    color: black;
+}
+
+#lishop a {
+    text-decoration: none;
+    color: black;
+}
+
+#lishop a:hover {
+    text-decoration: underline;
+}
+
+#shop {
+    display: inline-flex;
+    margin: 0 -0.1176470588em;
+    padding: 0 20px;
+}
+
+#footerlink {
+    padding-top: 50px;
+    margin: 50px 150px 50px 160px;
+    border-top: solid 1px;
+    border-color: rgb(170, 170, 170);
+}
+
+
+#lishoptitle {
+    list-style-type: none;
+    padding: 10px;
+    font-weight: 700;
+}

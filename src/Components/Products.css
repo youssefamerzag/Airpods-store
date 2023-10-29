@@ -1,0 +1,83 @@
+
+#protitle1 {
+    font-size: 75px;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-bottom: -70px;
+}
+
+#protitle2 {
+    font-size: 75px;
+    text-align: center;
+    font-weight: 700;
+}
+
+
+#cards {
+    display: inline-flex;
+    margin-left: 210px;
+}
+
+#card {
+    text-align: center;
+    padding: 50px;
+}
+
+
+#cardimg1 {
+    background-image: url(compare_airpods_2nd_gen\ for\ card.png);
+    width: 150px; 
+    height: 170px; 
+    background-size: 150px 170px;
+}
+
+#cardimg2 {
+    background-image: url(compare_airpods_3rd_gen__for\ card.png);
+    width: 175px; 
+    height: 170px; 
+    background-size: 175px 170px;
+}
+
+#cardimg3 {
+    background-image: url(compare_airpods_pro__for\ card.png);
+    width: 175px; 
+    height: 170px; 
+    background-size: 175px 170px;
+}
+
+#cardimg4 {
+    background-image: url(compare_airpods_max__b14s2x6q07rm_medium_2x.png);
+    width: 160px; 
+    height: 170px; 
+    background-size: 160px 170px;
+}
+
+
+#buybutton {
+    padding: 10px 15px 10px 15px;
+    border-radius: 18px;
+    border: none;
+    background-color: #0071e3;
+    color: aliceblue;
+}
+
+#buybutton:hover {
+        background-color: #399bfd;
+}
+
+
+#learmore {
+    display: block;
+    margin: 20px;
+    font-size: 15px;
+    text-decoration: none;
+    color: rgb(115, 115, 255);
+}
+
+
+#learmore:hover {
+    text-decoration: underline;
+    
+    color: #399bfd;
+}
